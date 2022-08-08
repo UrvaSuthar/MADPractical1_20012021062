@@ -35,5 +35,5 @@ fun p2(){
 
     val string2 = "10.5"
     string2.toDouble()
-    println("String To Double : $string2")
+    println("String To Double : $string2 ")
 }
